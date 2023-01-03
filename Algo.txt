@@ -1,2 +1,4 @@
-Decide which business to order from
-Decide what kind of pizza I want
+1. Decide which business to order from
+2. Decide what kind of pizza I want
+3. Find number to pizza place
+4. Call Pizza place
